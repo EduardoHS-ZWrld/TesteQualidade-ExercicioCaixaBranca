@@ -13,7 +13,7 @@ Após a análise do código apresentado os seguintes erros foram notados:
 2ª Etapa
 
 Aplicando o uso do grafo de fluxo no código de exemplo conseguimos o seguinte resultado:
-GRAFO
+![Grafo de Fluxo - Teste de Caixa Branca](https://github.com/EduardoHS-ZWrld/TesteQualidade-ExercicioCaixaBranca/assets/69911011/c1d339d3-1085-46c1-b789-0960ad70141a)
 
 No arquivo user.java foi adicionado a classe UserGrafoFluxo com o mesmo código da classe User porém identado e com comentários marcando os nódulos para facilitar a visualização;
 
