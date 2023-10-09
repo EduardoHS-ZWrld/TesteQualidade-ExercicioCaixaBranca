@@ -24,3 +24,8 @@ A complexidade do Grafo ficou em 4, assim resultando em 4 caminhos independentes
  - Erro no nódulo 7: A tentativa de conexão resulta em falha e cai no exception. Finalizando o código em erro.
  - Erro no nódulo 14: A execução da query resulta em falha e cai no exception. Finalizando o código em erro.
  - Nódulo 15 retorna false: O resultado da query não possui valor, pulando do nódulo 15 para o 18.
+
+
+3ª Etapa
+
+Os métodos e variáveis foram devidamente documentados com suas funções no código e seus parâmetros e retorno caso tivessem algum.
